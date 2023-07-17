@@ -31,3 +31,10 @@
 
 <a>&nbsp;&nbsp;&nbsp;&nbsp;Problem link -> https://codeforces.com/gym/104468/problem/H</a>
 
+</br>
+<b>5&nbsp;&nbsp;&nbsp;&nbsp;F. LCS</b>
+</br>
+
+<a>&nbsp;&nbsp;&nbsp;&nbsp;Atcoder dp tasks problem F</a>
+
+<a>&nbsp;&nbsp;&nbsp;&nbsp;Problem link -> https://atcoder.jp/contests/dp/tasks/dp_f</a>
