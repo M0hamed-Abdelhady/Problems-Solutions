@@ -62,7 +62,7 @@ int n;
 void MCM(vector<vi > &dp, vector<vi > &newColor) {
 //  search for Matrix Chain Multiplication (MCM)
     for (int i = 1; i < n; ++i) {
-//      i for range => from j to j + i
+//      i for range difference => from j to j + i
         for (int j = 0; j + i < n; ++j) {
 //          j for the index
             vi ans, col;
