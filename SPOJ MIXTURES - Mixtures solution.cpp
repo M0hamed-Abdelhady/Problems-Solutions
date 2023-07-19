@@ -68,7 +68,7 @@ void MCM(vector<vi > &dp, vector<vi > &newColor) {
             vi ans, col;
             for (int k = j; k < j + i; ++k) {
 //              k for the range pairs
-//              (ex: r1({1, k = 1} => {k + 1 = 2, 4}), r2({1, k = 2} => {k + 1 = 3, 4}...))
+//              (ex: r1({1, k = 1} => {k + 1 = 2, 4}), r2({1, k = 2} => {k + 1 = 3, 4})...)
                 int res1 = newColor[j][k], res2 = newColor[k + 1][j + i];
                 ans.push_back(dp[j][k] + dp[k + 1][j + i] + (res1 * res2));
                 col.push_back((res1 + res2) % 100);
