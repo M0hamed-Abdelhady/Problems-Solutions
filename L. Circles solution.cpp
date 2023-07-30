@@ -27,8 +27,7 @@ using namespace std;
 
 #define debug(x) cerr << #x <<" "; let(x); cerr << endl;
 #else
-#define debug(x)
-#define debugArray(x, y)
+#define debug(x)
 #endif
 
 class DarkNess {
