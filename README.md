@@ -46,3 +46,11 @@
 <a>&nbsp;&nbsp;&nbsp;&nbsp;SPOJ #dynamic-programming problems</a>
 
 <a>&nbsp;&nbsp;&nbsp;&nbsp;Problem link -> https://www.spoj.com/problems/MIXTURES/en/</a>
+
+</br>
+<b>6&nbsp;&nbsp;&nbsp;&nbsp;L. Circles</b>
+</br>
+
+<a>&nbsp;&nbsp;&nbsp;&nbsp;Codeforces Gym 104487 problem L</a>
+
+<a>&nbsp;&nbsp;&nbsp;&nbsp;Problem link -> https://codeforces.com/gym/104487/problem/L</a>
