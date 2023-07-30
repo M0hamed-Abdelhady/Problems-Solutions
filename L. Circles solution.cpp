@@ -134,15 +134,9 @@ circle findSolution(vector<vector<double>> full) {
 vector<vector<double>> change(pair<double, double> a, pair<double, double> b, pair<double, double> c) {
 ///     put variables coefficients on a matrix
     vector<vector<double>> ans(3, vector<double>(4));
-    for (int i = 0; i < 3; ++i) {
-        int x, y, d;
-        if (i == 0)
-            ans[i] = {2 * a.first, 2 * a.second, 1, -(a.first * a.first) - (a.second * a.second)};
-        else if (i == 1)
-            ans[i] = {2 * b.first, 2 * b.second, 1, -(b.first * b.first) - (b.second * b.second)};
-        else
-            ans[i] = {2 * c.first, 2 * c.second, 1, -(c.first * c.first) - (c.second * c.second)};
-    }
+    ans = {{2 * a.first, 2 * a.second, 1, -(a.first * a.first) - (a.second * a.second)},
+           {2 * b.first, 2 * b.second, 1, -(b.first * b.first) - (b.second * b.second)},
+           {2 * c.first, 2 * c.second, 1, -(c.first * c.first) - (c.second * c.second)}};
     return ans;
 }
 
