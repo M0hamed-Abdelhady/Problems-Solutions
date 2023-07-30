@@ -153,7 +153,7 @@ void solve() {
         for (int j = i + 1; j < n; ++j) {
             for (int k = j + 1; k < n; ++k) {
 ///             each three coordinates that aren't on the same line can make exactly one circle
-///             so for each three coordinates iterate for all pairs to find more coordinates on that circle
+///             so for each three coordinates iterate on all given points to find more coordinates on that circle
                 circle s = findSolution(change(x[i], x[j], x[k]));
                 q = 3;
                 for (int l = 0; l < n; ++l) {
