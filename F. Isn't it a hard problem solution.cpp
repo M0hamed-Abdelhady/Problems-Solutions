@@ -97,7 +97,7 @@ int calcCost(string &s) {
 void solve() {
     int n, k;
     cin >> n >> k;
-    f(n, i, 0) {
+    for (int i = 2; i < n; ++i) {
 //      reset array
         memset(sparse[i], 0, sizeof sparse[i]);
     }
@@ -141,7 +141,7 @@ int main() {
 //  preprocessing for log2(sz)
 //  efficiently find x satisfy 2^x <= sz ---> x = logs[sz]
     logs[1] = 0;
-    f(N, i, 2) logs[i] = logs[i / 2] + 1;
+    for (int i = 2; i < N; ++i) logs[i] = logs[i / 2] + 1;
 
     ll T = 1;
     cin >> T;
