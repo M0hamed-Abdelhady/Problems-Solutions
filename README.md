@@ -54,3 +54,11 @@
 <a>&nbsp;&nbsp;&nbsp;&nbsp;Codeforces Gym 104487 problem L</a>
 
 <a>&nbsp;&nbsp;&nbsp;&nbsp;Problem link -> https://codeforces.com/gym/104487/problem/L</a>
+
+</br>
+<b>8&nbsp;&nbsp;&nbsp;&nbsp;G. Giza</b>
+</br>
+
+<a>&nbsp;&nbsp;&nbsp;&nbsp;ECPC Qualifications 2023 Day5 CU-FCAI</a>
+
+<a>&nbsp;&nbsp;&nbsp;&nbsp;Statment link -> </a>
