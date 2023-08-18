@@ -61,4 +61,4 @@
 
 <a>&nbsp;&nbsp;&nbsp;&nbsp;ECPC Qualifications 2023 Day5 CU-FCAI</a>
 
-<a>&nbsp;&nbsp;&nbsp;&nbsp;Statment link -> https://docs.google.com/document/d/1lZ8fp-TeeS5Yy0LLgI98Z6YY_LfaStVW/edit?usp=drive_link&ouid=109664675309883124395&rtpof=true&sd=true</a>
+<a>&nbsp;&nbsp;&nbsp;&nbsp;Statment link -> https://docs.google.com/document/d/1lZ8fp-TeeS5Yy0LLgI98Z6YY_LfaStVW/edit?usp=sharing&ouid=109664675309883124395&rtpof=true&sd=true</a>
