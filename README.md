@@ -62,3 +62,11 @@
 <a>&nbsp;&nbsp;&nbsp;&nbsp;ECPC Qualifications 2023 Day5 CU-FCAI</a>
 
 <a>&nbsp;&nbsp;&nbsp;&nbsp;Statment link -> https://docs.google.com/document/d/1lZ8fp-TeeS5Yy0LLgI98Z6YY_LfaStVW/edit?usp=sharing&ouid=109664675309883124395&rtpof=true&sd=true</a>
+
+</br>
+<b>9&nbsp;&nbsp;&nbsp;&nbsp;E. Sweets Game</b>
+</br>
+
+<a>&nbsp;&nbsp;&nbsp;&nbsp;Codeforces Beta Round 59 (Div. 2)</a>
+
+<a>&nbsp;&nbsp;&nbsp;&nbsp;Problem link -> https://codeforces.com/contest/63/problem/E</a>
