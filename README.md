@@ -41,6 +41,14 @@
 <a>&nbsp;&nbsp;&nbsp;&nbsp;Problem link -> https://codeforces.com/contest/1810/problem/D</a>
 
 </br>
+<b>6&nbsp;<11>&nbsp;&nbsp;G. Training Camp</b>
+</br>
+
+<a>&nbsp;&nbsp;&nbsp;&nbsp;Codeforces Gym 100676 problem G</a>
+
+<a>&nbsp;&nbsp;&nbsp;&nbsp;Problem link -> https://codeforces.com/gym/100676/attachments/download/3333/acm-arabella-collegiate-programming-contest-en.pdf</a>
+
+</br>
 
 # AtCoder
 
