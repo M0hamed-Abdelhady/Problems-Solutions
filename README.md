@@ -54,7 +54,7 @@
 <a>&nbsp;&nbsp;&nbsp;&nbsp;Codeforces Gym 100676</a>
 </br>
 
-<b>11&nbsp;&nbsp;[Counting Paths](https://cses.fi/problemset/task/1136)</b>
+<b>12&nbsp;&nbsp;[Counting Paths](https://cses.fi/problemset/task/1136)</b>
 </br>
 <a>&nbsp;&nbsp;&nbsp;&nbsp;CSES Tree Algorithms</a>
 </br>
